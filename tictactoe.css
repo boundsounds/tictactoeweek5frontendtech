@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: #080705 ;
+    background-color: #702632;
+    font-size: 75px;
+    margin-right: 33%;
+    margin-left: 33%;
+}
+body{
+    background-color: #40434E;
+    padding: 1%;
+}
+h3{
+    text-align: center;
+    color: #FFFFFA;
+}
+table{
+    background-color: #080705;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    background-color: #FFFFFA;
+    border: 0px transparent;
+    border-radius: 10%;
+    margin: 4px;
+    padding: 4px;
+}
+.btn{
+    background-color:#912F40 ;
+  
+}
+.btn:hover{
+    opacity: .8;
+    background-color: #702632 ;
+}
+.fa {
+    font-size: 40px;
+    color: black;
+}
+.alert{
+    margin: 8%;
+}

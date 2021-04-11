@@ -1,0 +1,16 @@
+{
+  "name": "week-5",
+  "version": "1.0.0",
+  "main": "tictactoe.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
